@@ -4,7 +4,7 @@
         data-bs-theme="dark"
       >
         <div class="container-fluid">
-          <a href="home.html" class="navbar-brand"
+          <a href="home.php" class="navbar-brand"
             ><img src="img/logo.png" alt="logo" width="30" height="24"
           /></a>
           <button
@@ -81,10 +81,12 @@
                 Search
               </button>
             </form>
-            <li style="list-style: none; margin-left: 20px; margin-right: 10px;">
-              <a style="color: rgb(78, 208, 248);" href="#"><i class="fa-solid fa-user"></i></a>
+            <li style="list-style: none; margin-left: 20px; margin-right: 10px">
+              <a style="color: rgb(78, 208, 248)" href="#"
+                ><i class="fa-solid fa-user"></i
+              ></a>
             </li>
           </div>
         </div>
       </nav>
-    </header>
+</header>

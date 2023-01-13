@@ -1,37 +1,29 @@
 <footer>
-    <div class="container text-center">
+      <div class="container text-center">
         <div class="row">
           <div class="col">
             <img src="img/logo.png" alt="logo" width="300px" height="300px" />
             <div class="row justify-content-md-center">
-              <div class="col-md-auto">
-                <a href="https://www.facebook.com/">
-                  <i class="fa-brands fa-facebook-f icons"></i>
+              <div>
+                <a href="https://www.facebook.com/" class="padfootica">
+                  <i class="fa-brands fa-facebook-f"></i>
                 </a>
-              </div>
-              <div class="col-md-auto">
-                <a href="https://www.youtube.com/">
-                  <i class="fa-brands fa-youtube icons"></i>
+                <a href="https://www.youtube.com/" class="padfootica">
+                  <i class="fa-brands fa-youtube"></i>
                 </a>
-              </div>
-              <div class="col-md-auto">
-                <a href="https://www.discord.com/">
-                  <i class="fa-brands fa-discord icons"></i>
+                <a href="https://www.discord.com/" class="padfootica">
+                  <i class="fa-brands fa-discord"></i>
                 </a>
-              </div>
-              <div class="col-md-auto">
-                <a href="https://www.twitter.com/">
-                  <i class="fa-brands fa-twitter icons"></i>
+                <a href="https://www.twitter.com/" class="padfootica">
+                  <i class="fa-brands fa-twitter"></i>
                 </a>
-              </div>
-              <div class="col-md-auto">
-                <a href="https://www.instagram.com/">
-                  <i class="fa-brands fa-instagram icons"></i>
+                <a href="https://www.instagram.com/" class="padfootica">
+                  <i class="fa-brands fa-instagram"></i>
                 </a>
               </div>
             </div>
             <div class="col order-1">
-              <li><a href="#">Help Center</a></li>
+              <li><a href="">Help Center</a></li>
               <li><a href="about.php">About Us</a></li>
               <li><a href="contact.php">Contact Us</a></li>
               <li>
