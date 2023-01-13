@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&family=Montserrat:wght@300&family=Press+Start+2P&display=swap");
+
+* {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)),
+    url(img/bg.jpg);
+}
+
+nav {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)),
+    url(https://t4.ftcdn.net/jpg/02/48/81/31/360_F_248813143_0Hn6ziX9B8FftE8SNjTdmbVEsplQFf65.jpg);
+  background-size: cover;
+}
+
+a:hover {
+  color: #99d0ff;
+}
+
+.column1 {
+  margin-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+footer {
+  text-align: justify;
+  padding-top: 50px;
+  opacity: 50%;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgb(0, 0, 0, 0.7)),
+    url(https://t4.ftcdn.net/jpg/02/48/81/31/360_F_248813143_0Hn6ziX9B8FftE8SNjTdmbVEsplQFf65.jpg);
+  background-size: cover;
+  margin-top: 100px;
+}
+
+footer li {
+  list-style: none;
+  margin: 15px;
+  font-size: 14px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+}
