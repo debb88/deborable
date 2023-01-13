@@ -58,9 +58,9 @@
       </p>
       <h1>Our Team</h1>
 
-      <div class="row">
-        <div class="col-sm-6 mb-3 mb-sm-0">
-          <div class="card text-bg-dark" style="width: 29rem">
+      <div class="d-flex flex-row flex-wrap">
+        <div class="p-2">
+        <div class="card text-bg-dark" style="width: 20rem; height: 525px;">
             <img
               src="https://i.ibb.co/BK97SZ4/Westlee-14.jpg"
               class="card-img-top"
@@ -75,8 +75,9 @@
               >
             </div>
           </div>
-
-          <div class="card text-bg-dark" style="width: 23rem">
+        </div>
+        <div class="p-2">
+        <div class="card text-bg-dark" style="width: 20rem; height: 525px;">
             <img
               src="https://i.ibb.co/qR4crt9/223927683-887607418770990-4341425578229123372-n-1.jpg"
               class="card-img-top"
@@ -91,8 +92,9 @@
               >
             </div>
           </div>
-
-          <div class="card text-bg-dark" style="width: 23rem">
+        </div>
+        <div class="p-2">
+        <div class="card text-bg-dark" style="width: 20rem; height: 525px;">
             <img
               src="https://i.ibb.co/cYTVVXf/Whats-App-Image-2022-10-24-at-22-16-38.jpg"
               class="card-img-top"
@@ -107,8 +109,9 @@
               >
             </div>
           </div>
-
-          <div class="card text-bg-dark" style="width: 23rem">
+        </div>
+        <div class="p-2">
+        <div class="card text-bg-dark" style="width: 20rem; height: 525px;">
             <img
               src="https://i.ibb.co/VJGV5Dj/Felsy.jpg"
               class="card-img-top"
@@ -123,8 +126,9 @@
               >
             </div>
           </div>
-
-          <div class="card text-bg-dark" style="width: 23rem">
+        </div>
+        <div class="p-2">
+        <div class="card text-bg-dark" style="width: 20rem; height: 525px;">
             <img
               src="https://i.ibb.co/jH9LrJf/Whats-App-Image-2022-10-24-at-19-49-44.jpg"
               class="card-img-top"
