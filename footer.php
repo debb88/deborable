@@ -31,9 +31,9 @@
               </div>
             </div>
             <div class="col order-1">
-              <li><a href="">Help Center</a></li>
-              <li><a href="about.html">About Us</a></li>
-              <li><a href="contact.html">Contact Us</a></li>
+              <li><a href="#">Help Center</a></li>
+              <li><a href="about.php">About Us</a></li>
+              <li><a href="contact.php">Contact Us</a></li>
               <li>
                 &copy; 25.10.2022 | Kelompok 3 | Debora | Westlee | Felixcia |
                 Wilson | Rahel

@@ -2,7 +2,6 @@
       <nav
         class="navbar navbar-expand-lg bg-body-tertiary fixed-top"
         data-bs-theme="dark"
-        style="background-color: black"
       >
         <div class="container-fluid">
           <a href="home.html" class="navbar-brand"
